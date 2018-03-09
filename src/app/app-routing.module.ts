@@ -6,7 +6,7 @@ import { AboutComponent } from './about/about.component'; // Add this
 const routes: Routes = [
   {
     path: '',
-    redirectTo: 'xhome',
+    redirectTo: 'home',
     pathMatch: 'full'
   },
   {
